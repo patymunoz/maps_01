@@ -10,7 +10,8 @@
     "core-js": "^3.6.5",
     "dai-maps": "git+https://devtemp-invitado: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@github.com/conacyt-dai/dai-maps.git#v0.4.7",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vuedraggable": "^2.24.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.15",
